@@ -33,3 +33,5 @@ public class MyClass {
 /*In oder to achieve the correct result and not have repetitive output. We use if correctly on to and they else if statements to...*/
 /*..To perevent repetitive output and have a function that returns the requested output correctly in a way of new lines with correct module output.*/
 /*Thank you.*/
+/*And should be a .java application. Thank you.*/
+/*Thank you.*/
