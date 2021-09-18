@@ -27,7 +27,8 @@ public class MyClass {
     }
 }
 /*https://youtu.be/h36mQC3JFMo*/
-/* Use java online compiler: https://www.jdoodle.com/online-java-compiler*/
+/*Use java online compiler*/
+/*https://www.jdoodle.com/online-java-compiler*/
 /*Working with module of three and five to return multiples of five and three, as Fizz and Buzz.*/
 /*All from zero to one hundred 100 or zero through 10 ten. to sussefull return their multiples correctly*/
 /*this is done by setting the ,if, statemnts in the correct order, on top, and by using else-if statements afterward down*/
